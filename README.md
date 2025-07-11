@@ -105,8 +105,6 @@ python filter_teacher.py
 ## 🙋‍♂️ Author
 
 **marioblox** — *The Cyber Sorcerer* 🧙‍♂️
-📧 Email: [thatchanajaruphong@gmail.com](mailto:thatchanajaruphong@gmail.com)
-📸 IG: [@pers0naxx](https://www.instagram.com/pers0naxx)
 
 > "Clean data is magical data." ✨
 
