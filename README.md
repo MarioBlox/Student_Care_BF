@@ -112,14 +112,4 @@ python filter_teacher.py
 
 ````
 
----
 
-หากต้องการ commit ทั้งหมดใน Git:
-
-```bash
-git init
-git add .
-git commit -m "🗂️ Add school data tools: OTP brute-force, downloads, filters"
-````
-
-ถ้าต้องการ README เป็นภาษาไทยด้วย บอกได้เลยนะครับ! 🇹🇭
